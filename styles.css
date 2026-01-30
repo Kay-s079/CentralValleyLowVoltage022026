@@ -1,0 +1,39 @@
+html{
+    background-color: hwb(331 48% 11%);
+    Height:100%;
+}
+
+body {
+    background-color: white;
+    height: 90%;
+}
+h1 {
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+#wraper
+{
+    background-color: cornflowerblue;
+    display:flex;
+    flex-direction: column;
+   height: 100%;
+    
+}
+header 
+{background-color: #e79abb;
+padding:1rem;
+
+}
+main{
+background-color: hwb(334 78% 14%);
+padding:1rem;
+flex:1;
+}
+footer {
+background-color:#e79abb;
+padding:1rem;
+
+}
